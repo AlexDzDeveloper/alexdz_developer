@@ -1,0 +1,16 @@
+body{
+  background-color: lightseagreen;
+}
+
+h1{
+  color: aquamarine;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-weight: 700;
+  font-style: italic;
+}
+
+p{
+  color: palegreen;
+  margin-left: 15px;
+}
